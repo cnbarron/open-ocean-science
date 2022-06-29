@@ -90,14 +90,24 @@
                  "description": "it is hard to swim in there."
               }
         },
+{
+             "type": "Feature",
+             "geometry": { "type": "Point", "coordinates": [ -42.0391845703125,-22.98873816096073] },
+             "properties": {
+                 "name": "Cabo Frio Location",
+                 "type": "Upwelling zone",
+                 "location": "Cabo Frio, Brazil",
+                 "description": "it is hard to swim in there."
+              }
+        },
         {
               "type": "Feature",
-              "geometry": { "type": "Point", "coordinates": [-70.4168701171875, 43.39257476235773] },
+              "geometry": { "type": "Point", "coordinates": [-89.6098861, 30.3710288] },
               "properties": {
-                 "name": "Goose Rocks Beach",
-                 "type": "Beach",
-                 "location": "Kennebunkport, Maine, USA",
-                 "description": "Sandy beach in Maine with seals"
+                 "name": "U.S. Naval Research Laboratory, Stennis Space Center",
+                 "type": "Forest",
+                 "location": "Stennis Space Center, Mississippi, USA",
+                 "description": "Look for the DO NOT FEED THE ALLIGATORS sign as you cross the bridge to our building"
                }
         },
         {
